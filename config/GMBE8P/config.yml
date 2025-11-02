@@ -1,0 +1,27 @@
+# See config.example.yml for documentation.
+object_base: orig/GMBE8P
+object: sys/main.dol
+hash: 424e8ce10135686de0709a147e6a3a5a3fda02f1
+modules:
+- object: files/test/mkbe.option.rel
+  hash: 63112a806b4106a2825695ae56fd79d56f87d91a
+- object: files/test/mkbe.rel_mini_race.rel
+  hash: c600a0f425b42405f27527f57bcba110fffa0431
+- object: files/test/mkbe.rel_mini_bowling.rel
+  hash: 29ded64794215790b8bfd6fc6c2517ca835b6b1a
+- object: files/test/mkbe.rel_mini_fight.rel
+  hash: 233b6073feb2ec293cff024523019225c41f5604
+- object: files/test/mkbe.rel_mini_pilot.rel
+  hash: cc2b2ef2b1c2bdf613beae9c71ff32d75e03059f
+- object: files/test/mkbe.rel_mini_golf.rel
+  hash: fc70c4e88e1f22e908bbcc4e263cb45e74310b93
+- object: files/test/mkbe.rel_mini_billiards.rel
+  hash: 4ff9ee4165b581f68848c6a0ce3448baf62b6c73
+- object: files/test/mkbe.rel_sample.rel
+  hash: 2d8273685eabb6c7ce2b92c420ead0010a0f0acc
+- object: files/test/mkbe.sel_ngc.rel
+  hash: e8bbf3075538ec60a275cf70141e36c63f6e5fcd
+- object: files/test/mkbe.sel_stage.rel
+  hash: aa293db8ed4295c6216c572facde7d3f0dc139f3
+- object: files/test/mkbe.test_mode.rel
+  hash: 23a47f77b9ac9ee32445d8291f9fee952d1f2ee0
